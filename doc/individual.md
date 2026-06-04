@@ -1,8 +1,8 @@
-## Individual contributions
+# Individual contributions
 These are the individual contributions to the exam
-# Myrthe
+## Myrthe
 ...
-# Andrea
+## Andrea
 ...
-# Ricciardo
+## Ricciardo
 ...
