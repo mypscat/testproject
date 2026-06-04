@@ -8,11 +8,13 @@ fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.
 
 :::{toctree}
-:maxdepth: 4
+:maxdepth: 3
 :caption: Some caption
 
 about.md
+individual.md
 :::
+
 
 individual.md
 :::
