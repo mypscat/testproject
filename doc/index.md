@@ -13,3 +13,6 @@ culpa qui officia deserunt mollit anim id est laborum.
 
 about.md
 :::
+
+individual.md
+:::
