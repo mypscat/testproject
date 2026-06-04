@@ -1,0 +1,16 @@
+name: testproject
+channels:
+  - conda-forge
+dependencies:
+  - python <= 3.12
+  - click
+  - numpy
+  - pandas
+  - scipy
+  - altair
+  - vl-convert-python
+  - myst-parser
+  - sphinx
+  - sphinx-rtd-theme
+  - sphinx-autoapi
+  - sphinx-autobuild
